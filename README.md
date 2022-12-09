@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=machmwangi&show_icons=true&locale=en" alt="machmwangi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=machmwangi&" alt="machmwangi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MachMwangi&theme=neon-dark"</p>
